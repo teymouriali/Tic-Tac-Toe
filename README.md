@@ -1,4 +1,4 @@
-Simple dose game
+Simple Tic-Tac-Toe game
 
 The competition is between the user and the computer
 
